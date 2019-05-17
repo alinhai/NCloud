@@ -1,0 +1,2378 @@
+[
+     {
+          "bought": false,
+          "reserveFlag": "false",
+          "coupons": [
+               {
+                    "couponId": 2731005,
+                    "couponCode": "M30FJGRCL",
+                    "couponLabel": "手慢无",
+                    "couponName": "初夏狂欢惠",
+                    "couponDesc": "仅限数码影音类目指定商品使用，数量有限，先到先得。领取后5天内使用有效。",
+                    "startTime": 1556640000000,
+                    "endTime": 1559318340000,
+                    "fixDay": 5,
+                    "drawStatus": 0,
+                    "drawLimit": {
+                         "drawType": 0,
+                         "drawUserType": 0,
+                         "point": 0
+                    },
+                    "effectAction": {
+                         "actionType": 0,
+                         "minMoney": 0,
+                         "effectType": 1,
+                         "effectValue": 30
+                    },
+                    "welfareType": 0,
+                    "curTime": 1557747921814
+               }
+          ],
+          "showCoupon": null,
+          "canBuy": true,
+          "addCartFlag": false,
+          "product": {
+               "stock": 0,
+               "saleNum": 0,
+               "sumMoney": null,
+               "skus": [
+                    {
+                         "attrs": [
+                              {
+                                   "attrId": 2001,
+                                   "attr": "颜色",
+                                   "attrValueId": 6001,
+                                   "attrValue": "红色",
+                                   "calValue": 0.0,
+                                   "displayValue": "",
+                                   "productSKUAttrDataList": null
+                              }
+                         ],
+                         "snapshotId": "43277015_221275018",
+                         "nearTicketTime": false,
+                         "ipadIapProductId": "",
+                         "vipSpePrice": 128,
+                         "stock": 1406,
+                         "iapSpePrice": 0,
+                         "iapPrice": 0,
+                         "spePrice": 118,
+                         "supplyPrice": null,
+                         "picUrl": "p3.music.126.net/XGm9cHsdh6b1bPDKRKoVfQ==/109951163303130519.jpg,p3.music.126.net/nbDyA2EFGOkZQDfs_PWTEw==/109951163303129618.jpg,p3.music.126.net/pItRvrUTDqI2JX2v7-53nQ==/109951163303128153.jpg,p3.music.126.net/GHbi2gFOtWElsdWNzZb-eg==/109951163303122468.jpg",
+                         "sales": 13949,
+                         "skuExtInfo": {
+                              "concertTicketId": 0,
+                              "productPlayid": 0,
+                              "priceStatus": 0,
+                              "priceNum": 0,
+                              "showStartlimitBuyNum": 0,
+                              "showStartDate": 0,
+                              "showEndDate": 0,
+                              "originPrice": 0,
+                              "showTicketStartTime": 0,
+                              "supPriBegin": 0,
+                              "supPriEnd": 0,
+                              "sortNum": 0
+                         },
+                         "iapDesc": null,
+                         "iapProductId": null,
+                         "iapName": null,
+                         "price": 128,
+                         "id": 18149004
+                    },
+                    {
+                         "attrs": [
+                              {
+                                   "attrId": 2001,
+                                   "attr": "颜色",
+                                   "attrValueId": 6003,
+                                   "attrValue": "黑色",
+                                   "calValue": 0.0,
+                                   "displayValue": "",
+                                   "productSKUAttrDataList": null
+                              }
+                         ],
+                         "snapshotId": "43277015_221275019",
+                         "nearTicketTime": false,
+                         "ipadIapProductId": "",
+                         "vipSpePrice": 128,
+                         "stock": 252,
+                         "iapSpePrice": 0,
+                         "iapPrice": 0,
+                         "spePrice": 118,
+                         "supplyPrice": null,
+                         "picUrl": "p3.music.126.net/IXSTL2PDuvo8SDMxP4hemw==/109951163637530017.jpg,p3.music.126.net/aiew9HfnJtzVqTs847MXcg==/109951163303121947.jpg,p3.music.126.net/t9d2a1G76pbxM0CUqYKQDA==/109951163303121948.jpg,p3.music.126.net/LOszLhea-ff-xazNsvULoA==/109951163303121952.jpg",
+                         "sales": 53837,
+                         "skuExtInfo": {
+                              "concertTicketId": 0,
+                              "productPlayid": 0,
+                              "priceStatus": 0,
+                              "priceNum": 0,
+                              "showStartlimitBuyNum": 0,
+                              "showStartDate": 0,
+                              "showEndDate": 0,
+                              "originPrice": 0,
+                              "showTicketStartTime": 0,
+                              "supPriBegin": 0,
+                              "supPriEnd": 0,
+                              "sortNum": 0
+                         },
+                         "iapDesc": null,
+                         "iapProductId": null,
+                         "iapName": null,
+                         "price": 128,
+                         "id": 18149005
+                    },
+                    {
+                         "attrs": [
+                              {
+                                   "attrId": 2001,
+                                   "attr": "颜色",
+                                   "attrValueId": 350055,
+                                   "attrValue": "白色",
+                                   "calValue": 0.0,
+                                   "displayValue": "",
+                                   "productSKUAttrDataList": null
+                              }
+                         ],
+                         "snapshotId": "43277015_221275020",
+                         "nearTicketTime": false,
+                         "ipadIapProductId": "",
+                         "vipSpePrice": 128,
+                         "stock": 1116,
+                         "iapSpePrice": 0,
+                         "iapPrice": 0,
+                         "spePrice": 118,
+                         "supplyPrice": null,
+                         "picUrl": "p3.music.126.net/az7LuUAL3ECsiFPHLGPknA==/109951163304335952.jpg",
+                         "sales": 12508,
+                         "skuExtInfo": {
+                              "concertTicketId": 0,
+                              "productPlayid": 0,
+                              "priceStatus": 0,
+                              "priceNum": 0,
+                              "showStartlimitBuyNum": 0,
+                              "showStartDate": 0,
+                              "showEndDate": 0,
+                              "originPrice": 0,
+                              "showTicketStartTime": 0,
+                              "supPriBegin": 0,
+                              "supPriEnd": 0,
+                              "sortNum": 0
+                         },
+                         "iapDesc": null,
+                         "iapProductId": null,
+                         "iapName": null,
+                         "price": 128,
+                         "id": 18149006
+                    }
+               ],
+               "discount": null,
+               "pickUp": false,
+               "tags": [
+                    "特价"
+               ],
+               "display": 0,
+               "status": 0,
+               "picIds": [
+                    "109951163303130519",
+                    "109951163637530017",
+                    "109951163304335952"
+               ],
+               "couponLabelDesc": "用券减30",
+               "useVipPrice": false,
+               "category1": 101000,
+               "category2": 1005000,
+               "shopId": 49000,
+               "pubTime": 1526607502070,
+               "createTime": 1526553034037,
+               "brandName": "JBL",
+               "exchangeType": 0,
+               "priceType": 1,
+               "extInfo": {
+                    "albumId": 0,
+                    "songId": 0,
+                    "goodVipType": 11,
+                    "quotaOfOrder": 0,
+                    "extProductId": 0,
+                    "extProductStatus": 0,
+                    "extShelfStatus": 0,
+                    "concertId": 0,
+                    "buysingle": false,
+                    "showStartProId": 0,
+                    "needMessage": 0,
+                    "message": "",
+                    "preSale": 1,
+                    "defaultMessage": "",
+                    "albumSaleDisplayType": 0,
+                    "restrict": 1,
+                    "giftSet": 1
+               },
+               "couponLabelFlag": 2,
+               "vipLimit": false,
+               "allowDupBuy": true,
+               "drawTime": 0,
+               "levelLimit": 0,
+               "statistics": 6,
+               "label": "领券",
+               "alterStock": 0,
+               "suggestWord": "佩戴舒适 强劲低音 一键式线控 音乐通话耳机",
+               "picUrls": [
+                    "http://p3.music.126.net/eSfkjWdD83fDkifZkhqsEQ==/109951163303130519.jpg",
+                    "http://p4.music.126.net/5595RP-mtd5ssTLYgVnKzg==/109951163637530017.jpg",
+                    "http://p3.music.126.net/T5xDF2mgx6kxtZY1xbBjbQ==/109951163304335952.jpg"
+               ],
+               "specialType": 0,
+               "coverUrl": "http://p3.music.126.net/5595RP-mtd5ssTLYgVnKzg==/109951163637530017.jpg",
+               "coverIdStr": "109951163637530017",
+               "performanceTime": 0,
+               "iap": false,
+               "name": "JBL T120A 立体声入耳式耳机  手机音乐耳机 游戏耳机 耳机耳麦 带麦可通话",
+               "id": 9338002,
+               "type": 2,
+               "serviceType": [
+                    "5",
+                    "8",
+                    "10",
+                    "12"
+               ],
+               "descr": [
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#ff0000;\">正品低价 品质保证：云音乐商城所有产品均由品牌方直供，杜绝假货。</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#ff0000;\">装箱清单：耳机× 1，包装× 1，保修卡× 1。</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#ff0000;\">该产品一经拆封，非质量问题不接受7天无理由退货。</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p3.music.126.net/Hd0f4ZyBU4rxQOUXQJ9cqQ==/109951163689815069.jpg",
+                         "rawResource": "109951163689815069"
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "商品交易成功后会在2个工作日内由北京恒远恒信科技发展有限公司发货，法定节假日顺延（包含周六日），请在确认商品完好后再签收。若存在质量问题，请务必在7天之内联系客服：",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "·客服账号：私信 @云音乐客服",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "·温馨提示：完整的包装、配件和保修卡是电子产品进行售后的基础，请务必查看齐全后签收并妥善保管。",
+                         "rawResource": null
+                    }
+               ],
+               "appleDescr": [],
+               "businessName": "北京恒远恒信科技发展有限公司",
+               "discount": true,
+               "videoId": null
+          },
+          "code": 200
+     },
+     {
+          "bought": false,
+          "reserveFlag": "false",
+          "coupons": [
+               {
+                    "couponId": 2777007,
+                    "couponCode": "MQWC5X9D0",
+                    "couponLabel": "服饰配件",
+                    "couponName": "服饰配件类目券",
+                    "couponDesc": "本券支持云音乐商城服饰配件类目下的商品使用，不可与其他商品券叠加使用",
+                    "startTime": 1557849600000,
+                    "endTime": 1558454340000,
+                    "fixDay": 0,
+                    "drawStatus": 0,
+                    "drawLimit": {
+                         "drawType": 0,
+                         "drawUserType": 0,
+                         "point": 0
+                    },
+                    "effectAction": {
+                         "actionType": 0,
+                         "minMoney": 0,
+                         "effectType": 3,
+                         "effectValue": 0
+                    },
+                    "welfareType": 0,
+                    "curTime": 1557991386269
+               },
+               {
+                    "couponId": 2788004,
+                    "couponCode": "MA3D32SSF",
+                    "couponLabel": "服饰配件",
+                    "couponName": "服饰配件类目券",
+                    "couponDesc": "本券支持云音乐商城服饰配件类目下的商品使用，不可与其他商品券叠加使用",
+                    "startTime": 1557849600000,
+                    "endTime": 1558454340000,
+                    "fixDay": 0,
+                    "drawStatus": 0,
+                    "drawLimit": {
+                         "drawType": 0,
+                         "drawUserType": 0,
+                         "point": 0
+                    },
+                    "effectAction": {
+                         "actionType": 1,
+                         "minMoney": 138,
+                         "effectType": 1,
+                         "effectValue": 10
+                    },
+                    "welfareType": 0,
+                    "curTime": 1557991386278
+               },
+               {
+                    "couponId": 2780005,
+                    "couponCode": "M4KE4T9AW",
+                    "couponLabel": "服饰配件",
+                    "couponName": "服饰配件类目券",
+                    "couponDesc": "本券支持云音乐商城服饰配件类目下的商品使用，不可与其他商品券叠加使用",
+                    "startTime": 1557849600000,
+                    "endTime": 1558454340000,
+                    "fixDay": 0,
+                    "drawStatus": 0,
+                    "drawLimit": {
+                         "drawType": 0,
+                         "drawUserType": 0,
+                         "point": 0
+                    },
+                    "effectAction": {
+                         "actionType": 1,
+                         "minMoney": 198,
+                         "effectType": 1,
+                         "effectValue": 20
+                    },
+                    "welfareType": 0,
+                    "curTime": 1557991386272
+               },
+               {
+                    "couponId": 2787004,
+                    "couponCode": "M0Q3QJKE5",
+                    "couponLabel": "服饰配件",
+                    "couponName": "服饰配件类目券",
+                    "couponDesc": "本券支持云音乐商城服饰配件类目下的商品使用，不可与其他商品券叠加使用",
+                    "startTime": 1557849600000,
+                    "endTime": 1558454340000,
+                    "fixDay": 0,
+                    "drawStatus": 0,
+                    "drawLimit": {
+                         "drawType": 0,
+                         "drawUserType": 0,
+                         "point": 0
+                    },
+                    "effectAction": {
+                         "actionType": 1,
+                         "minMoney": 248,
+                         "effectType": 1,
+                         "effectValue": 30
+                    },
+                    "welfareType": 0,
+                    "curTime": 1557991386275
+               }
+          ],
+          "showCoupon": null,
+          "canBuy": true,
+          "addCartFlag": false,
+          "product": {
+               "stock": 0,
+               "saleNum": 0,
+               "sumMoney": null,
+               "skus": [
+                    {
+                         "attrs": [
+                              {
+                                   "attrId": 222203,
+                                   "attr": "颜色",
+                                   "attrValueId": 1767500,
+                                   "attrValue": "黑色",
+                                   "calValue": 0.0,
+                                   "displayValue": "",
+                                   "productSKUAttrDataList": null
+                              }
+                         ],
+                         "snapshotId": "43198009_221239003",
+                         "nearTicketTime": false,
+                         "stock": 1249,
+                         "price": 56,
+                         "iapSpePrice": 0,
+                         "iapPrice": 0,
+                         "spePrice": 56,
+                         "picUrl": "p4.music.126.net/rfRaRsmjii_7e8jammyQjw==/109951163696416960.jpg",
+                         "supplyPrice": null,
+                         "iapDesc": null,
+                         "iapProductId": null,
+                         "iapName": null,
+                         "ipadIapProductId": "",
+                         "vipSpePrice": 56,
+                         "sales": 7066,
+                         "skuExtInfo": {
+                              "concertTicketId": 0,
+                              "productPlayid": 0,
+                              "priceStatus": 0,
+                              "priceNum": 0,
+                              "showStartlimitBuyNum": 0,
+                              "showStartDate": 0,
+                              "showEndDate": 0,
+                              "originPrice": 0,
+                              "showTicketStartTime": 0,
+                              "supPriBegin": 0,
+                              "supPriEnd": 0,
+                              "sortNum": 0
+                         },
+                         "id": 18424005
+                    }
+               ],
+               "discount": null,
+               "pickUp": false,
+               "specialType": 0,
+               "useVipPrice": false,
+               "vipLimit": false,
+               "allowDupBuy": true,
+               "drawTime": 0,
+               "coverUrl": "http://p3.music.126.net/IXmNI3O-HBhIQytCo9_X3Q==/109951163679756618.jpg",
+               "couponLabelDesc": null,
+               "exchangeType": 0,
+               "priceType": 1,
+               "extInfo": {
+                    "albumId": 0,
+                    "songId": 0,
+                    "goodVipType": 11,
+                    "quotaOfOrder": 0,
+                    "extProductId": 0,
+                    "extProductStatus": 0,
+                    "extShelfStatus": 0,
+                    "concertId": 0,
+                    "buysingle": false,
+                    "showStartProId": 0,
+                    "needMessage": 0,
+                    "message": "",
+                    "preSale": 1,
+                    "defaultMessage": "",
+                    "albumSaleDisplayType": 0,
+                    "restrict": 1,
+                    "giftSet": 1
+               },
+               "couponLabelFlag": 0,
+               "category1": 1002000,
+               "category2": 1009000,
+               "shopId": 0,
+               "pubTime": 1536745733532,
+               "createTime": 1531730597374,
+               "brandName": "网易云音乐",
+               "iap": false,
+               "levelLimit": 0,
+               "statistics": 2,
+               "label": "",
+               "alterStock": 0,
+               "suggestWord": "",
+               "picUrls": [
+                    "http://p3.music.126.net/IXmNI3O-HBhIQytCo9_X3Q==/109951163679756618.jpg",
+                    "http://p3.music.126.net/TTk9tJVfEaPGH8CcoBS-ug==/109951163679749813.jpg",
+                    "http://p4.music.126.net/1mrTflvUwLO1L5-erMPz3g==/109951163679751762.jpg",
+                    "http://p4.music.126.net/zBB7IwZtRMwtkVDtCoODoA==/109951163679747433.jpg",
+                    "http://p3.music.126.net/gl1gHuhYI9gaIXfX6rFaVw==/109951163679746911.jpg"
+               ],
+               "status": 0,
+               "performanceTime": 0,
+               "coverIdStr": "109951163679756618",
+               "picIds": [
+                    "109951163679756618",
+                    "109951163679749813",
+                    "109951163679751762",
+                    "109951163679747433",
+                    "109951163679746911"
+               ],
+               "tags": [
+                    "热门"
+               ],
+               "display": 0,
+               "name": "网易云音乐 运动斜挎包",
+               "id": 9610002,
+               "type": 2,
+               "serviceType": [
+                    "1",
+                    "3",
+                    "5",
+                    "10"
+               ],
+               "descr": [
+                    {
+                         "type": 2,
+                         "resource": "http://p3.music.126.net/uvaSRRGRBHFycpnkeT_Q4g==/109951163546479752.jpg",
+                         "rawResource": "109951163546479752"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p4.music.126.net/gzRwEm803h1oq4H6A1dg4g==/109951163546479266.jpg",
+                         "rawResource": "109951163546479266"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p4.music.126.net/fyr1tXJok2SRxOsZbuls7g==/109951163546486529.jpg",
+                         "rawResource": "109951163546486529"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p3.music.126.net/7ZMdNCfyIu6LUUNY6LwQVQ==/109951163546476808.jpg",
+                         "rawResource": "109951163546476808"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p4.music.126.net/jkGfuVfK5D5_SjFPON_C5A==/109951163546485146.jpg",
+                         "rawResource": "109951163546485146"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p4.music.126.net/TGBmhtrvcqBE5WCvYPPJMg==/109951163546481250.jpg",
+                         "rawResource": "109951163546481250"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p4.music.126.net/d8E-T1d-s4WKgAAW27ztAQ==/109951164053346950.jpg",
+                         "rawResource": "109951164053346950"
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"font-weight:bold;\">购买须知</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">商品购买成功后，会在48小时内发货，法定节假日顺延，请在确认商品完好后再签收。</span> ",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">若存在质量问题，请务必在签收后7天内联系客服。</span> ",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">客服账号：向【云音乐客服】账号私信反馈</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"font-weight:bold;\">售后服务承诺：</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">如何申请退换货：</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">1.自您签收产品快递起7日内（含），如果您所购买的产品存在质量问题，请第一时间联系网易云音乐客服（向“云音乐客服”账号私信反馈），并确认产品包装完好无破损，且吊牌挂在产品上。</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">2.签收后7天内在配件齐全，且不影响二次销售前提下支持无理由退换货，退款将原路返回，不同的银行处理时间不同，预计1-5个工作日到账；</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"font-weight:bold;\">退换货说明：</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">在退换时应当保证产品完好、配件齐全，且不影响二次销售。遭人为污损的商品不提供7天无理由退换货服务，敬请谅解。</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">无法享受7天内无理由退换的情况，包括但不仅限于以下：</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">1）签收产品超出7天后，提出售后申请；</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">2）产品配件不齐全或包装不完整的；</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">3）人为原因，包括下水洗涤，剪标，人为污损的；</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">4）非产品本身原因出现破损（如宠物撕咬、不小心被尖锐物勾扯等）；</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">5）正常的面料特性，如：深色衣服第一次下水轻微褪色和浮毛；</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">6）因使用者保养不当造成产品出现质量问题（如高温熨烫等）。</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"font-weight:bold;\">退货注意事项：</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">1）商品的完整标配指原厂包装，标牌及其他所有配件；</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">2）因质量问题，退货运费由网易云音乐承担；因个人原因（包括大小不合适，色差问题，个人不喜欢不满意等退货或者更换尺寸）产生的寄回运费，由用户个人承担；</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">3）请您支付寄回的快递费（到付件一律拒收），核对为质量问题后网易云音乐会报销寄回的快递费（最高22元），请将快递发票随货寄出（无发票不报销）。</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"font-weight:bold;\">退换货流程</span>：",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">向客服申请退货—客服审核—审核通过后，用户寄回商品—验收核对—退款或重新寄出商品</span>",
+                         "rawResource": null
+                    }
+               ],
+               "appleDescr": [],
+               "businessName": "杭州网易云音乐有限公司",
+               "discount": false,
+               "videoId": ""
+          },
+          "code": 200
+     },
+     {
+          "bought": false,
+          "reserveFlag": "false",
+          "coupons": [],
+          "showCoupon": null,
+          "canBuy": true,
+          "addCartFlag": false,
+          "product": {
+               "stock": 0,
+               "saleNum": 0,
+               "sumMoney": null,
+               "skus": [
+                    {
+                         "attrs": [],
+                         "snapshotId": "39344193_176540809",
+                         "nearTicketTime": false,
+                         "ipadIapProductId": "",
+                         "vipSpePrice": 79,
+                         "picUrl": "",
+                         "supplyPrice": null,
+                         "price": 79,
+                         "sales": 916,
+                         "skuExtInfo": {
+                              "concertTicketId": 0,
+                              "productPlayid": 0,
+                              "priceStatus": 0,
+                              "priceNum": 0,
+                              "showStartlimitBuyNum": 0,
+                              "showStartDate": 0,
+                              "showEndDate": 0,
+                              "originPrice": 0,
+                              "showTicketStartTime": 0,
+                              "supPriBegin": 0,
+                              "supPriEnd": 0,
+                              "sortNum": 0
+                         },
+                         "iapDesc": null,
+                         "iapProductId": null,
+                         "iapName": null,
+                         "iapSpePrice": 0,
+                         "iapPrice": 0,
+                         "spePrice": 79,
+                         "stock": 240,
+                         "id": 20575082
+                    }
+               ],
+               "discount": null,
+               "pickUp": false,
+               "tags": [],
+               "display": 0,
+               "status": 0,
+               "iap": false,
+               "picIds": [
+                    "109951163889996886",
+                    "109951163890000734",
+                    "109951163890009501",
+                    "109951163890008026",
+                    "109951163890005156"
+               ],
+               "specialType": 0,
+               "vipLimit": false,
+               "allowDupBuy": true,
+               "drawTime": 0,
+               "category1": 1008001,
+               "category2": 1010002,
+               "shopId": 1019,
+               "pubTime": 1552646894656,
+               "createTime": 1550646110934,
+               "brandName": "天鹅",
+               "levelLimit": 0,
+               "statistics": 6,
+               "label": "",
+               "alterStock": 0,
+               "suggestWord": "10孔C调 初学者适用 经典红色 精心设计 音色出众",
+               "picUrls": [
+                    "http://p3.music.126.net/JPPAu6K4NImLDDb29FdSrw==/109951163889996886.jpg",
+                    "http://p4.music.126.net/xVZuWGyyJJMshkWG9AUz6w==/109951163890000734.jpg",
+                    "http://p4.music.126.net/PQC3WuoIHtP_Fl1f4hJ8qw==/109951163890009501.jpg",
+                    "http://p4.music.126.net/C0sf31bqvTH60071fmEnzw==/109951163890008026.jpg",
+                    "http://p4.music.126.net/ge079IegqTVjsQp9SiaQPA==/109951163890005156.jpg"
+               ],
+               "couponLabelDesc": null,
+               "coverUrl": "http://p3.music.126.net/JPPAu6K4NImLDDb29FdSrw==/109951163889996886.jpg",
+               "performanceTime": 0,
+               "coverIdStr": "109951163889996886",
+               "useVipPrice": false,
+               "exchangeType": 0,
+               "priceType": 1,
+               "extInfo": {
+                    "albumId": 0,
+                    "songId": 0,
+                    "goodVipType": 0,
+                    "quotaOfOrder": 0,
+                    "extProductId": 0,
+                    "extProductStatus": 0,
+                    "extShelfStatus": 0,
+                    "concertId": 0,
+                    "buysingle": false,
+                    "showStartProId": 0,
+                    "needMessage": 0,
+                    "message": "",
+                    "preSale": 1,
+                    "defaultMessage": "",
+                    "albumSaleDisplayType": 0,
+                    "restrict": 1,
+                    "giftSet": 1
+               },
+               "couponLabelFlag": 1,
+               "name": "网易云音乐 蓝调布鲁斯口琴 经典红色 音乐的力量",
+               "id": 11235013,
+               "type": 2,
+               "serviceType": [
+                    "1",
+                    "5",
+                    "8",
+                    "10",
+                    "12",
+                    "13"
+               ],
+               "descr": [
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#ff0000;\"><span style=\"font-size:20px;\">网易云音乐雅致银色布鲁斯口琴<a href=\"https://music.163.com/store/product/detail?id=11235015\">请点这里；</a></span></span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#ff0000;\"><span style=\"font-size:20px;\">网易云音乐酷炫黑色布鲁斯口琴<a href=\"https://music.163.com/store/product/detail?id=11250009\">请点这里；</a></span></span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p4.music.126.net/dsguYeMbzjibR4BoImmvvg==/109951163890009836.jpg",
+                         "rawResource": "109951163890009836"
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p4.music.126.net/HM_9K49jQCH8nZcAqochog==/109951163575141248.jpg",
+                         "rawResource": "109951163575141248"
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"font-weight:bold;\">购买须知</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "此商品由“海盗口琴”代为发货，具体快递视收货地区而定。",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "商品购买成功后，会在2个工作日内发货，法定节假日顺延，请在确认商品完好后再签收。",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"font-weight:bold;\">由于口琴出厂前都会经过手工调音，琴面上有可能出现轻微划痕，并非质量问题。</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "若存在质量问题，请务必在签收后7天内联系客服。",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "客服账号：向【云音乐客服】账号私信反馈。",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"font-weight:bold;\">售后服务承诺</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "如何申请退换货：",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "1.自您签收产品快递起7日内（含），如果您所购买的产品存在质量问题，请第一时间联系网易云音乐客服（向“云音乐客服”账号私信反馈），并确认产品包装完好无破损，且吊牌挂在产品上。",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "2.签收后7天内在配件齐全，且不影响二次销售前提下支持无理由退换货，退款将原路返回，不同的银行处理时间不同，预计1-5个工作日到账；",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"font-weight:bold;\">退换货说明</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "商品在退换时应当保证产品完好、配件齐全，且不影响二次销售。遭人为污损的商品不提供7天无理由退换货服务，敬请谅解。",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "无法享受7天内无理由退换的情况，包括但不仅限于以下：",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "1）签收产品超出7天后，提出售后申请；",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "2）产品配件不齐全或包装不完整的；",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "3）人为原因，包括下水洗涤，剪标，人为污损的；",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "4）非产品本身原因出现破损（如宠物撕咬、摔砸磕碰等）；",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "5）正常的面料特性，如：深色衣服第一次下水轻微褪色和浮毛；",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "6）因使用者保养不当造成产品出现质量问题（如高温熨烫等）。",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"font-weight:bold;\">退货注意事项</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "1）商品的完整标配指原厂包装，标牌及其他所有配件；",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "2）因质量问题，退货运费由网易云音乐承担；因个人原因（包括大小不合适，色差问题，个人不喜欢不满意等退货或者更换尺寸）产生的寄回运费，由用户个人承担；",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "3）请您支付寄回的快递费（到付件一律拒收），核对为质量问题后网易云音乐会报销寄回的快递费，请将快递发票随货寄出（无发票不报销）；",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "4）如非质量问题或包装破损，请勿未经客服同意随意拒收。",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"font-weight:bold;\">退换货流程</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "向客服申请退货—客服审核—审核通过后，用户寄回商品—验收核对—退款或重新寄出商品",
+                         "rawResource": null
+                    }
+               ],
+               "appleDescr": [],
+               "businessName": "大连旭鹏乐器有限公司",
+               "discount": false,
+               "videoId": "D40AAC80B34479444305E301E2C526FE"
+          },
+          "code": 200
+     },
+     {
+          "bought": false,
+          "reserveFlag": "false",
+          "coupons": [
+               {
+                    "couponId": 2731005,
+                    "couponCode": "M30FJGRCL",
+                    "couponLabel": "手慢无",
+                    "couponName": "初夏狂欢惠",
+                    "couponDesc": "仅限数码影音类目指定商品使用，数量有限，先到先得。领取后5天内使用有效。",
+                    "startTime": 1556640000000,
+                    "endTime": 1559318340000,
+                    "fixDay": 5,
+                    "drawStatus": 0,
+                    "drawLimit": {
+                         "drawType": 0,
+                         "drawUserType": 0,
+                         "point": 0
+                    },
+                    "effectAction": {
+                         "actionType": 0,
+                         "minMoney": 0,
+                         "effectType": 1,
+                         "effectValue": 30
+                    },
+                    "welfareType": 0,
+                    "curTime": 1557996951967
+               }
+          ],
+          "showCoupon": null,
+          "canBuy": true,
+          "addCartFlag": false,
+          "product": {
+               "stock": 0,
+               "saleNum": 0,
+               "sumMoney": null,
+               "skus": [
+                    {
+                         "attrs": [
+                              {
+                                   "attrId": 214003,
+                                   "attr": "颜色",
+                                   "attrValueId": 1742008,
+                                   "attrValue": "苍穹黑",
+                                   "calValue": 0.0,
+                                   "displayValue": "",
+                                   "productSKUAttrDataList": null
+                              }
+                         ],
+                         "snapshotId": "42179438_220652160",
+                         "nearTicketTime": false,
+                         "ipadIapProductId": "",
+                         "vipSpePrice": 199,
+                         "picUrl": "p4.music.126.net/vGxZM9TonLLd-xAm6VWpow==/109951163696420764.jpg,p3.music.126.net/hmfe-DfD23FDqzRS8RGNUw==/19097417463475702.jpg,p3.music.126.net/uFhlSSl8wBk2Hylg3N5AbQ==/19134800858739936.jpg,p4.music.126.net/0MHZTxMGhNrGsJk_RDBffA==/19146895486664973.jpg",
+                         "stock": 2456,
+                         "iapDesc": null,
+                         "iapProductId": null,
+                         "iapName": null,
+                         "sales": 29451,
+                         "skuExtInfo": {
+                              "concertTicketId": 0,
+                              "productPlayid": 0,
+                              "priceStatus": 0,
+                              "priceNum": 0,
+                              "showStartlimitBuyNum": 0,
+                              "showStartDate": 0,
+                              "showEndDate": 0,
+                              "originPrice": 0,
+                              "showTicketStartTime": 0,
+                              "supPriBegin": 0,
+                              "supPriEnd": 0,
+                              "sortNum": 0
+                         },
+                         "price": 199,
+                         "iapSpePrice": 0,
+                         "iapPrice": 0,
+                         "spePrice": 199,
+                         "supplyPrice": null,
+                         "id": 17085002
+                    },
+                    {
+                         "attrs": [
+                              {
+                                   "attrId": 214003,
+                                   "attr": "颜色",
+                                   "attrValueId": 1742009,
+                                   "attrValue": "珍珠白",
+                                   "calValue": 0.0,
+                                   "displayValue": "",
+                                   "productSKUAttrDataList": null
+                              }
+                         ],
+                         "snapshotId": "42179438_220652161",
+                         "nearTicketTime": false,
+                         "ipadIapProductId": "",
+                         "vipSpePrice": 199,
+                         "picUrl": "p4.music.126.net/sEU-ysfw7zwIAZAYKt5YZQ==/109951163696419299.jpg,p3.music.126.net/c_VbDBYdlmLFICsYtMaDrA==/18572950418591552.jpg,p3.music.126.net/5sFNFhiGb0P1p9InHjvOHw==/18800549325532931.jpg",
+                         "stock": 1188,
+                         "iapDesc": null,
+                         "iapProductId": null,
+                         "iapName": null,
+                         "sales": 12934,
+                         "skuExtInfo": {
+                              "concertTicketId": 0,
+                              "productPlayid": 0,
+                              "priceStatus": 0,
+                              "priceNum": 0,
+                              "showStartlimitBuyNum": 0,
+                              "showStartDate": 0,
+                              "showEndDate": 0,
+                              "originPrice": 0,
+                              "showTicketStartTime": 0,
+                              "supPriBegin": 0,
+                              "supPriEnd": 0,
+                              "sortNum": 0
+                         },
+                         "price": 199,
+                         "iapSpePrice": 0,
+                         "iapPrice": 0,
+                         "spePrice": 199,
+                         "supplyPrice": null,
+                         "id": 17085003
+                    },
+                    {
+                         "attrs": [
+                              {
+                                   "attrId": 214003,
+                                   "attr": "颜色",
+                                   "attrValueId": 1742010,
+                                   "attrValue": "烈焰红",
+                                   "calValue": 0.0,
+                                   "displayValue": "",
+                                   "productSKUAttrDataList": null
+                              }
+                         ],
+                         "snapshotId": "42179438_220652162",
+                         "nearTicketTime": false,
+                         "ipadIapProductId": "",
+                         "vipSpePrice": 229,
+                         "picUrl": "p4.music.126.net/dq7_JyljedMrSPmWByjaRw==/109951163696425620.jpg,p4.music.126.net/ixwRpP58eBaTI3dut5wkXQ==/19097417463475701.jpg,p4.music.126.net/AG8VsNFfqbDRy1SuNpGACw==/18983068254131447.jpg",
+                         "stock": 1510,
+                         "iapDesc": null,
+                         "iapProductId": null,
+                         "iapName": null,
+                         "sales": 9249,
+                         "skuExtInfo": {
+                              "concertTicketId": 0,
+                              "productPlayid": 0,
+                              "priceStatus": 0,
+                              "priceNum": 0,
+                              "showStartlimitBuyNum": 0,
+                              "showStartDate": 0,
+                              "showEndDate": 0,
+                              "originPrice": 0,
+                              "showTicketStartTime": 0,
+                              "supPriBegin": 0,
+                              "supPriEnd": 0,
+                              "sortNum": 0
+                         },
+                         "price": 229,
+                         "iapSpePrice": 0,
+                         "iapPrice": 0,
+                         "spePrice": 229,
+                         "supplyPrice": null,
+                         "id": 17105000
+                    }
+               ],
+               "discount": null,
+               "pickUp": false,
+               "iap": false,
+               "vipLimit": false,
+               "allowDupBuy": true,
+               "drawTime": 0,
+               "levelLimit": 0,
+               "statistics": 1,
+               "label": "",
+               "alterStock": 0,
+               "suggestWord": "【网易云音乐独家专供】蓝牙4.0；工艺考究，细节出众；强劲低频，质感人声；超长播放",
+               "picUrls": [
+                    "http://p4.music.126.net/yimiaHWmSqDfNghy-uhPbQ==/109951163667583989.jpg",
+                    "http://p3.music.126.net/qFsHKm7ke9H6udPMtTKhuQ==/109951163667583441.jpg",
+                    "http://p3.music.126.net/FdVGet5-LaKvw3ImaIGp-g==/109951163667586397.jpg",
+                    "http://p3.music.126.net/gMtPM7fWe6Ucv3cWS-4bXg==/109951163667591635.jpg",
+                    "http://p4.music.126.net/nu77RZBemsj713oMyMzQ4g==/109951163667593063.jpg"
+               ],
+               "coverUrl": "http://p4.music.126.net/yimiaHWmSqDfNghy-uhPbQ==/109951163667583989.jpg",
+               "coverIdStr": "109951163667583989",
+               "performanceTime": 0,
+               "tags": [],
+               "display": 0,
+               "status": 0,
+               "picIds": [
+                    "109951163667583989",
+                    "109951163667586397",
+                    "109951163667583441",
+                    "109951163667591635",
+                    "109951163667593063"
+               ],
+               "couponLabelDesc": null,
+               "specialType": 0,
+               "useVipPrice": false,
+               "category1": 101000,
+               "category2": 1005000,
+               "shopId": 0,
+               "pubTime": 1518315841238,
+               "createTime": 1516071605420,
+               "brandName": "网易云音乐",
+               "exchangeType": 0,
+               "priceType": 1,
+               "extInfo": {
+                    "albumId": 0,
+                    "songId": 0,
+                    "goodVipType": 11,
+                    "quotaOfOrder": 0,
+                    "extProductId": 0,
+                    "extProductStatus": 0,
+                    "extShelfStatus": 0,
+                    "concertId": 0,
+                    "buysingle": false,
+                    "showStartProId": 0,
+                    "needMessage": 0,
+                    "message": "",
+                    "preSale": 1,
+                    "defaultMessage": "",
+                    "albumSaleDisplayType": 0,
+                    "restrict": 1,
+                    "giftSet": 1
+               },
+               "couponLabelFlag": 1,
+               "name": "网易云音乐定制款W800X头戴式蓝牙耳机",
+               "id": 8373000,
+               "type": 2,
+               "serviceType": [
+                    "3",
+                    "5",
+                    "10",
+                    "11"
+               ],
+               "descr": [
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#ff0000;\">正品低价  品质保证</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#ff0000;\">该产品一经拆封，非质量问题不接受7天无理由退货。由于产品与皮肤接触，请您确认需求后再拆封使用。</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p3.music.126.net/poqXqXe2zb4GUmpw02PTrQ==/109951163971946870.jpg",
+                         "rawResource": "109951163971946870"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p3.music.126.net/SV9J63LOg1kbJNIyMsvwiA==/109951163971956057.jpg",
+                         "rawResource": "109951163971956057"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p3.music.126.net/mCGz0yTpn9ayqS8RHxNUpQ==/109951163971950774.jpg",
+                         "rawResource": "109951163971950774"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p3.music.126.net/cDdRBKGSIelyTCMF5TTIig==/109951163971948774.jpg",
+                         "rawResource": "109951163971948774"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p4.music.126.net/H6TofLYYjWzltZlS02gB1Q==/109951163971956068.jpg",
+                         "rawResource": "109951163971956068"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p4.music.126.net/fHfjTTfG5e6PfrpcSWNzog==/109951163971949779.jpg",
+                         "rawResource": "109951163971949779"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p3.music.126.net/Z7QeOqAloOBD_XtaI52mQw==/109951163971946412.jpg",
+                         "rawResource": "109951163971946412"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p4.music.126.net/enMPkc6ybEuGgu7FmixSLQ==/109951163971945453.jpg",
+                         "rawResource": "109951163971945453"
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "商品交易成功后会在2个工作日内发货，法定节假日顺延，请在确认商品完好后再签收。",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "若存在质量问题，请务必在7天之内联系客服：",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "·客服账号：私信 @云音乐客服",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "·温馨提示：完整的包装、配件和保修卡是电子产品进行保修的基础，请务必查看齐全后签收并妥善保管。",
+                         "rawResource": null
+                    }
+               ],
+               "appleDescr": [],
+               "businessName": "杭州网易云音乐有限公司",
+               "discount": false,
+               "videoId": null
+          },
+          "code": 200
+     },
+     {
+          "bought": false,
+          "reserveFlag": "false",
+          "coupons": [
+               {
+                    "couponId": 2780000,
+                    "couponCode": "M3Q67BALF",
+                    "couponLabel": "指定商品",
+                    "couponName": "百货潮品优惠券",
+                    "couponDesc": "本券仅支持百货潮品类目使用，不可与其他优惠同时享受。",
+                    "startTime": 1557417600000,
+                    "endTime": 1558367940000,
+                    "fixDay": 0,
+                    "drawStatus": 0,
+                    "drawLimit": {
+                         "drawType": 0,
+                         "drawUserType": 0,
+                         "point": 0
+                    },
+                    "effectAction": {
+                         "actionType": 0,
+                         "minMoney": 0,
+                         "effectType": 3,
+                         "effectValue": 0
+                    },
+                    "welfareType": 0,
+                    "curTime": 1557997182964
+               },
+               {
+                    "couponId": 2780001,
+                    "couponCode": "MYJ9KE0K2",
+                    "couponLabel": "指定商品",
+                    "couponName": "百货潮品优惠券",
+                    "couponDesc": "本券仅支持百货潮品类目使用，不可与其他优惠同时享受。",
+                    "startTime": 1557417600000,
+                    "endTime": 1558367940000,
+                    "fixDay": 0,
+                    "drawStatus": 0,
+                    "drawLimit": {
+                         "drawType": 0,
+                         "drawUserType": 0,
+                         "point": 0
+                    },
+                    "effectAction": {
+                         "actionType": 1,
+                         "minMoney": 129,
+                         "effectType": 1,
+                         "effectValue": 20
+                    },
+                    "welfareType": 0,
+                    "curTime": 1557997182968
+               },
+               {
+                    "couponId": 2781000,
+                    "couponCode": "MGRW78R8C",
+                    "couponLabel": "指定商品",
+                    "couponName": "百货潮品优惠券",
+                    "couponDesc": "本券仅支持百货潮品类目使用，不可与其他优惠同时享受。",
+                    "startTime": 1557417600000,
+                    "endTime": 1558367940000,
+                    "fixDay": 0,
+                    "drawStatus": 0,
+                    "drawLimit": {
+                         "drawType": 0,
+                         "drawUserType": 0,
+                         "point": 0
+                    },
+                    "effectAction": {
+                         "actionType": 1,
+                         "minMoney": 199,
+                         "effectType": 1,
+                         "effectValue": 50
+                    },
+                    "welfareType": 0,
+                    "curTime": 1557997182973
+               }
+          ],
+          "showCoupon": null,
+          "canBuy": true,
+          "addCartFlag": false,
+          "product": {
+               "stock": 0,
+               "saleNum": 0,
+               "sumMoney": null,
+               "skus": [
+                    {
+                         "attrs": [
+                              {
+                                   "attrId": 290002,
+                                   "attr": "款式",
+                                   "attrValueId": 2362016,
+                                   "attrValue": "音乐黑胶款",
+                                   "calValue": 0.0,
+                                   "displayValue": "",
+                                   "productSKUAttrDataList": null
+                              }
+                         ],
+                         "snapshotId": "43535145_221338048",
+                         "nearTicketTime": false,
+                         "ipadIapProductId": "",
+                         "vipSpePrice": 99,
+                         "picUrl": "p4.music.126.net/XE3OBos_jmTDx3BtVuacTQ==/109951164071924780.jpg",
+                         "supplyPrice": null,
+                         "price": 99,
+                         "sales": 12,
+                         "skuExtInfo": {
+                              "concertTicketId": 0,
+                              "productPlayid": 0,
+                              "priceStatus": 0,
+                              "priceNum": 0,
+                              "showStartlimitBuyNum": 0,
+                              "showStartDate": 0,
+                              "showEndDate": 0,
+                              "originPrice": 0,
+                              "showTicketStartTime": 0,
+                              "supPriBegin": 0,
+                              "supPriEnd": 0,
+                              "sortNum": 0
+                         },
+                         "iapDesc": null,
+                         "iapProductId": null,
+                         "iapName": null,
+                         "iapSpePrice": 0,
+                         "iapPrice": 0,
+                         "spePrice": 59,
+                         "stock": 1487,
+                         "id": 21107055
+                    },
+                    {
+                         "attrs": [
+                              {
+                                   "attrId": 290002,
+                                   "attr": "款式",
+                                   "attrValueId": 2362017,
+                                   "attrValue": "音乐星球款",
+                                   "calValue": 0.0,
+                                   "displayValue": "",
+                                   "productSKUAttrDataList": null
+                              }
+                         ],
+                         "snapshotId": "43535145_221338049",
+                         "nearTicketTime": false,
+                         "ipadIapProductId": "",
+                         "vipSpePrice": 99,
+                         "picUrl": "p4.music.126.net/orPR9XzkbcLFo0qnCWqSPg==/109951164071922374.jpg",
+                         "supplyPrice": null,
+                         "price": 99,
+                         "sales": 29,
+                         "skuExtInfo": {
+                              "concertTicketId": 0,
+                              "productPlayid": 0,
+                              "priceStatus": 0,
+                              "priceNum": 0,
+                              "showStartlimitBuyNum": 0,
+                              "showStartDate": 0,
+                              "showEndDate": 0,
+                              "originPrice": 0,
+                              "showTicketStartTime": 0,
+                              "supPriBegin": 0,
+                              "supPriEnd": 0,
+                              "sortNum": 0
+                         },
+                         "iapDesc": null,
+                         "iapProductId": null,
+                         "iapName": null,
+                         "iapSpePrice": 0,
+                         "iapPrice": 0,
+                         "spePrice": 59,
+                         "stock": 1467,
+                         "id": 21107056
+                    }
+               ],
+               "discount": null,
+               "pickUp": false,
+               "tags": [
+                    "特价"
+               ],
+               "display": 0,
+               "status": 0,
+               "iap": false,
+               "picIds": [
+                    "109951164071929151",
+                    "109951164071919496",
+                    "109951164071922818",
+                    "109951164071929155",
+                    "109951164071928180"
+               ],
+               "specialType": 0,
+               "vipLimit": false,
+               "allowDupBuy": true,
+               "drawTime": 0,
+               "category1": 1005001,
+               "category2": 1005002,
+               "shopId": 0,
+               "pubTime": 1557922040643,
+               "createTime": 1557746305120,
+               "brandName": "网易云音乐",
+               "levelLimit": 0,
+               "statistics": 0,
+               "label": "",
+               "alterStock": 0,
+               "suggestWord": "",
+               "picUrls": [
+                    "http://p3.music.126.net/wmgTgnc8utfAkYL5y7ZVhg==/109951164071929151.jpg",
+                    "http://p3.music.126.net/3uDXky6HVZSlP2Kj3kIy9Q==/109951164071919496.jpg",
+                    "http://p3.music.126.net/NKvSvNO3m9V89JH2vl4lsg==/109951164071922818.jpg",
+                    "http://p4.music.126.net/Xl4bT7N4zM5AWtu6bEKkSw==/109951164071929155.jpg",
+                    "http://p3.music.126.net/3gh8NbesUQ3I5RElpyiSTQ==/109951164071928180.jpg"
+               ],
+               "couponLabelDesc": null,
+               "coverUrl": "http://p4.music.126.net/3gh8NbesUQ3I5RElpyiSTQ==/109951164071928180.jpg",
+               "performanceTime": 0,
+               "coverIdStr": "109951164071928180",
+               "useVipPrice": false,
+               "exchangeType": 0,
+               "priceType": 1,
+               "extInfo": {
+                    "albumId": 0,
+                    "songId": 0,
+                    "goodVipType": 0,
+                    "quotaOfOrder": 0,
+                    "extProductId": 0,
+                    "extProductStatus": 0,
+                    "extShelfStatus": 0,
+                    "concertId": 0,
+                    "buysingle": false,
+                    "showStartProId": 0,
+                    "needMessage": 0,
+                    "message": "",
+                    "preSale": 1,
+                    "defaultMessage": "",
+                    "albumSaleDisplayType": 0,
+                    "restrict": 1,
+                    "giftSet": 1
+               },
+               "couponLabelFlag": 0,
+               "name": "网易云音乐青春系列口袋遮阳伞",
+               "id": 11695009,
+               "type": 2,
+               "serviceType": [
+                    "1",
+                    "3",
+                    "5",
+                    "10"
+               ],
+               "descr": [
+                    {
+                         "type": 2,
+                         "resource": "http://p4.music.126.net/Z_t69T8URyjOWueqxBCbcA==/109951164076181148.jpg",
+                         "rawResource": "109951164076181148"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p3.music.126.net/1olVvt13vG7_Qx24l3PAsg==/109951164076178720.jpg",
+                         "rawResource": "109951164076178720"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p3.music.126.net/UC4iL73RSw7UTgfDfYKHyA==/109951164076172932.jpg",
+                         "rawResource": "109951164076172932"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p3.music.126.net/AChF8PlAEMkr8oF2tndBVg==/109951164076184545.jpg",
+                         "rawResource": "109951164076184545"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p4.music.126.net/977asC2ZppzLMwsECaOPHA==/109951164076203033.jpg",
+                         "rawResource": "109951164076203033"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p4.music.126.net/zqX2Xoh8doVsvFDmen2XRw==/109951164076184080.jpg",
+                         "rawResource": "109951164076184080"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p4.music.126.net/-SpcjTazByNglBt1R4gAXQ==/109951164076182644.jpg",
+                         "rawResource": "109951164076182644"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p3.music.126.net/dYRw5jHhn2lcNJ6ywrZfdg==/109951164076182153.jpg",
+                         "rawResource": "109951164076182153"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p3.music.126.net/boj1Ld6l1CkzwZQHXO5VZA==/109951164076177350.jpg",
+                         "rawResource": "109951164076177350"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p3.music.126.net/4InuR3_qdAO8_rTMScN-1Q==/109951164076171978.jpg",
+                         "rawResource": "109951164076171978"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p3.music.126.net/rGOYPTr7Xxej01O3daXbTA==/109951164076182665.jpg",
+                         "rawResource": "109951164076182665"
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"font-weight:bold;\">购买须知</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">商品购买成功后，会在48小时内发货，法定节假日顺延，请在确认商品完好后再签收。</span> ",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">若存在质量问题，请务必在签收后7天内联系客服。</span> ",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">客服账号：向【云音乐客服】账号私信反馈</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"font-weight:bold;\">售后服务承诺：</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">如何申请退换货：</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">1.自您签收产品快递起7日内（含），如果您所购买的产品存在质量问题，请第一时间联系网易云音乐客服（向“云音乐客服”账号私信反馈），并确认产品包装完好无破损，且吊牌挂在产品上。</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">2.签收后7天内在配件齐全，且不影响二次销售前提下支持无理由退换货，退款将原路返回，不同的银行处理时间不同，预计1-5个工作日到账；</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"font-weight:bold;\">退换货说明：</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">在退换时应当保证产品完好、配件齐全，且不影响二次销售。遭人为污损的商品不提供7天无理由退换货服务，敬请谅解。</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">无法享受7天内无理由退换的情况，包括但不仅限于以下：</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">1）签收产品超出7天后，提出售后申请；</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">2）产品配件不齐全或包装不完整的；</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">3）人为原因，包括下水洗涤，剪标，人为污损的；</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">4）非产品本身原因出现破损（如宠物撕咬、不小心被尖锐物勾扯等）；</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">5）正常的面料特性，如：深色衣服第一次下水轻微褪色和浮毛；</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">6）因使用者保养不当造成产品出现质量问题（如高温熨烫等）。</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"font-weight:bold;\">退货注意事项：</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">1）商品的完整标配指原厂包装，标牌及其他所有配件；</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">2）因质量问题，退货运费由网易云音乐承担；因个人原因（包括大小不合适，色差问题，个人不喜欢不满意等退货或者更换尺寸）产生的寄回运费，由用户个人承担；</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">3）请您支付寄回的快递费（到付件一律拒收），核对为质量问题后网易云音乐会报销寄回的快递费（最高22元），请将快递发票随货寄出（无发票不报销）。</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"font-weight:bold;\">退换货流程</span>：",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">向客服申请退货—客服审核—审核通过后，用户寄回商品—验收核对—退款或重新寄出商品</span>",
+                         "rawResource": null
+                    }
+               ],
+               "appleDescr": [],
+               "businessName": "杭州网易云音乐有限公司",
+               "discount": true,
+               "videoId": ""
+          },
+          "code": 200
+     },
+     {
+          "bought": false,
+          "reserveFlag": "false",
+          "coupons": [
+               {
+                    "couponId": 2777007,
+                    "couponCode": "MQWC5X9D0",
+                    "couponLabel": "服饰配件",
+                    "couponName": "服饰配件类目券",
+                    "couponDesc": "本券支持云音乐商城服饰配件类目下的商品使用，不可与其他商品券叠加使用",
+                    "startTime": 1557849600000,
+                    "endTime": 1558454340000,
+                    "fixDay": 0,
+                    "drawStatus": 0,
+                    "drawLimit": {
+                         "drawType": 0,
+                         "drawUserType": 0,
+                         "point": 0
+                    },
+                    "effectAction": {
+                         "actionType": 0,
+                         "minMoney": 0,
+                         "effectType": 3,
+                         "effectValue": 0
+                    },
+                    "welfareType": 0,
+                    "curTime": 1557997398603
+               },
+               {
+                    "couponId": 2788004,
+                    "couponCode": "MA3D32SSF",
+                    "couponLabel": "服饰配件",
+                    "couponName": "服饰配件类目券",
+                    "couponDesc": "本券支持云音乐商城服饰配件类目下的商品使用，不可与其他商品券叠加使用",
+                    "startTime": 1557849600000,
+                    "endTime": 1558454340000,
+                    "fixDay": 0,
+                    "drawStatus": 0,
+                    "drawLimit": {
+                         "drawType": 0,
+                         "drawUserType": 0,
+                         "point": 0
+                    },
+                    "effectAction": {
+                         "actionType": 1,
+                         "minMoney": 138,
+                         "effectType": 1,
+                         "effectValue": 10
+                    },
+                    "welfareType": 0,
+                    "curTime": 1557997398611
+               },
+               {
+                    "couponId": 2780005,
+                    "couponCode": "M4KE4T9AW",
+                    "couponLabel": "服饰配件",
+                    "couponName": "服饰配件类目券",
+                    "couponDesc": "本券支持云音乐商城服饰配件类目下的商品使用，不可与其他商品券叠加使用",
+                    "startTime": 1557849600000,
+                    "endTime": 1558454340000,
+                    "fixDay": 0,
+                    "drawStatus": 0,
+                    "drawLimit": {
+                         "drawType": 0,
+                         "drawUserType": 0,
+                         "point": 0
+                    },
+                    "effectAction": {
+                         "actionType": 1,
+                         "minMoney": 198,
+                         "effectType": 1,
+                         "effectValue": 20
+                    },
+                    "welfareType": 0,
+                    "curTime": 1557997398605
+               },
+               {
+                    "couponId": 2787004,
+                    "couponCode": "M0Q3QJKE5",
+                    "couponLabel": "服饰配件",
+                    "couponName": "服饰配件类目券",
+                    "couponDesc": "本券支持云音乐商城服饰配件类目下的商品使用，不可与其他商品券叠加使用",
+                    "startTime": 1557849600000,
+                    "endTime": 1558454340000,
+                    "fixDay": 0,
+                    "drawStatus": 0,
+                    "drawLimit": {
+                         "drawType": 0,
+                         "drawUserType": 0,
+                         "point": 0
+                    },
+                    "effectAction": {
+                         "actionType": 1,
+                         "minMoney": 248,
+                         "effectType": 1,
+                         "effectValue": 30
+                    },
+                    "welfareType": 0,
+                    "curTime": 1557997398609
+               }
+          ],
+          "showCoupon": null,
+          "canBuy": true,
+          "addCartFlag": false,
+          "product": {
+               "stock": 0,
+               "saleNum": 0,
+               "sumMoney": null,
+               "skus": [
+                    {
+                         "attrs": [
+                              {
+                                   "attrId": 219016,
+                                   "attr": "图案",
+                                   "attrValueId": 1759034,
+                                   "attrValue": "爱心款",
+                                   "calValue": 0.0,
+                                   "displayValue": "",
+                                   "productSKUAttrDataList": null
+                              }
+                         ],
+                         "snapshotId": "28942260_105148448",
+                         "nearTicketTime": false,
+                         "ipadIapProductId": "",
+                         "vipSpePrice": 49,
+                         "iapSpePrice": 0,
+                         "iapPrice": 0,
+                         "spePrice": 39,
+                         "supplyPrice": null,
+                         "sales": 10563,
+                         "picUrl": "p3.music.126.net/h3pXmtQVwY2aMhxhy5BAeg==/109951163696419322.jpg",
+                         "skuExtInfo": {
+                              "concertTicketId": 0,
+                              "productPlayid": 0,
+                              "priceStatus": 0,
+                              "priceNum": 0,
+                              "showStartlimitBuyNum": 0,
+                              "showStartDate": 0,
+                              "showEndDate": 0,
+                              "originPrice": 0,
+                              "showTicketStartTime": 0,
+                              "supPriBegin": 0,
+                              "supPriEnd": 0,
+                              "sortNum": 0
+                         },
+                         "iapDesc": null,
+                         "iapProductId": null,
+                         "iapName": null,
+                         "price": 49,
+                         "stock": 790,
+                         "id": 11882189
+                    },
+                    {
+                         "attrs": [
+                              {
+                                   "attrId": 219016,
+                                   "attr": "图案",
+                                   "attrValueId": 1759035,
+                                   "attrValue": "999+款",
+                                   "calValue": 0.0,
+                                   "displayValue": "",
+                                   "productSKUAttrDataList": null
+                              }
+                         ],
+                         "snapshotId": "28942260_105148449",
+                         "nearTicketTime": false,
+                         "ipadIapProductId": "",
+                         "vipSpePrice": 49,
+                         "iapSpePrice": 0,
+                         "iapPrice": 0,
+                         "spePrice": 39,
+                         "supplyPrice": null,
+                         "sales": 8293,
+                         "picUrl": "p4.music.126.net/TlmWncMoK1NinrH48M1x4A==/109951163696420307.jpg",
+                         "skuExtInfo": {
+                              "concertTicketId": 0,
+                              "productPlayid": 0,
+                              "priceStatus": 0,
+                              "priceNum": 0,
+                              "showStartlimitBuyNum": 0,
+                              "showStartDate": 0,
+                              "showEndDate": 0,
+                              "originPrice": 0,
+                              "showTicketStartTime": 0,
+                              "supPriBegin": 0,
+                              "supPriEnd": 0,
+                              "sortNum": 0
+                         },
+                         "iapDesc": null,
+                         "iapProductId": null,
+                         "iapName": null,
+                         "price": 49,
+                         "stock": 77,
+                         "id": 11882190
+                    }
+               ],
+               "discount": null,
+               "pickUp": false,
+               "status": 0,
+               "picIds": [
+                    "109951163677004277",
+                    "109951163677007690",
+                    "109951163677012563",
+                    "109951163677012080",
+                    "109951163677006240"
+               ],
+               "couponLabelDesc": null,
+               "exchangeType": 0,
+               "priceType": 1,
+               "useVipPrice": false,
+               "couponLabelFlag": 0,
+               "category1": 1002000,
+               "category2": 1009000,
+               "shopId": 0,
+               "pubTime": 1509587294027,
+               "createTime": 1508213377836,
+               "brandName": "网易云音乐",
+               "vipLimit": false,
+               "extInfo": {
+                    "albumId": 0,
+                    "songId": 0,
+                    "goodVipType": 11,
+                    "quotaOfOrder": 0,
+                    "extProductId": 0,
+                    "extProductStatus": 0,
+                    "extShelfStatus": 0,
+                    "concertId": 0,
+                    "buysingle": false,
+                    "showStartProId": 0,
+                    "needMessage": 0,
+                    "message": "",
+                    "preSale": 1,
+                    "albumSaleDisplayType": 0,
+                    "restrict": 1,
+                    "giftSet": 1
+               },
+               "coverUrl": "http://p3.music.126.net/3t6zq3y_l_9ansWBK0IPGw==/109951163677004277.jpg",
+               "picUrls": [
+                    "http://p3.music.126.net/3t6zq3y_l_9ansWBK0IPGw==/109951163677004277.jpg",
+                    "http://p4.music.126.net/FzhROmn1p2BSPnn3sMG9PA==/109951163677012563.jpg",
+                    "http://p4.music.126.net/w0-F8JUaV9nZkF9n-UCH_w==/109951163677007690.jpg",
+                    "http://p3.music.126.net/3-FH2JS2MRoUOxiBoQyZIA==/109951163677012080.jpg",
+                    "http://p4.music.126.net/3LikSi4rVexrYUcul1guXQ==/109951163677006240.jpg"
+               ],
+               "levelLimit": 0,
+               "statistics": 2,
+               "label": "",
+               "alterStock": 0,
+               "suggestWord": "",
+               "allowDupBuy": true,
+               "drawTime": 0,
+               "coverIdStr": "109951163677004277",
+               "performanceTime": 0,
+               "iap": false,
+               "tags": [
+                    "特价"
+               ],
+               "display": 0,
+               "specialType": 0,
+               "name": "网易云音乐定制黑金帆布袋",
+               "id": 6689053,
+               "type": 2,
+               "serviceType": [
+                    "1",
+                    "3",
+                    "5",
+                    "10"
+               ],
+               "descr": [
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#ff0000;\">网易云音乐专属定制，黑金限量版帆布袋</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p4.music.126.net/KnMUdR0Tw4P3YvVfDUO27Q==/3444769944253961.jpg",
+                         "rawResource": "3444769944253961"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p4.music.126.net/bfzCfQGSUKETdr71yy-69g==/3413983643243233.jpg",
+                         "rawResource": "3413983643243233"
+                    },
+                    {
+                         "type": 1,
+                         "resource": "优质胚布，透气环保",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "12盎司天然织造，纱线精密且轻便",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p4.music.126.net/5XPQGUYpwoHy62YyxiyZug==/18636722091886704.jpg",
+                         "rawResource": "18636722091886704"
+                    },
+                    {
+                         "type": 1,
+                         "resource": "10kg承重，大容量满足日常出行所需",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "内置拉链暗带，为您提供私密小空间",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p3.music.126.net/AEp7vOUKa8CTp5Iz96gyrA==/18822539556986306.jpg",
+                         "rawResource": "18822539556986306"
+                    },
+                    {
+                         "type": 1,
+                         "resource": "双线十字加固，更加结实耐用",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p4.music.126.net/IvplhkX6P9wMGQuAo5KQYg==/3313928053101879.jpg",
+                         "rawResource": "3313928053101879"
+                    },
+                    {
+                         "type": 1,
+                         "resource": "包底扩容设计，置物立体",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p3.music.126.net/gN_EG2oBHU3xCucXADxhvg==/2946691242781282.jpg",
+                         "rawResource": "2946691242781282"
+                    },
+                    {
+                         "type": 1,
+                         "resource": "采用云音乐经典元素",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p3.music.126.net/OVgFDSVshpksaFbUtHQ-Cg==/18814842975609546.jpg",
+                         "rawResource": "18814842975609546"
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p4.music.126.net/QO1CcPkBkdwPH2MqrMP94g==/18607035277933361.jpg",
+                         "rawResource": "18607035277933361"
+                    },
+                    {
+                         "type": 1,
+                         "resource": "尺寸：33x45cm",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p3.music.126.net/ejXJPV_KlSVp4GzKaX1CBQ==/18767563975596397.jpg",
+                         "rawResource": "18767563975596397"
+                    },
+                    {
+                         "type": 1,
+                         "resource": "（人工测量，存在误差1-2cm误差）",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "洗涤方式：",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 2,
+                         "resource": "http://p4.music.126.net/dRFDR0-dxIFmPZgAQMTUiQ==/18700493766301861.jpg",
+                         "rawResource": "18700493766301861"
+                    },
+                    {
+                         "type": 1,
+                         "resource": "· 第一次清洗时可在清水中加入少量食盐后用清水洗净；",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "· 不宜漂白，清洗后翻面阴干晾晒，避免阳光下曝晒；",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "· 与其他衣物分开洗涤，不要长时间浸泡，及时洗净；",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "· 忌大力刷洗而损伤表面纤维，建议用中性柔和洗剂手洗，局部难清洗的地方可以用软毛刷轻力刷洗。",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br><br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"font-weight:bold;\">购买须知</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">商品购买成功后，会在48小时内发货，法定节假日顺延，请在确认商品完好后再签收。</span> ",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">若存在质量问题，请务必在签收后7天内联系客服。</span> ",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">客服账号：向【云音乐客服】账号私信反馈</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"font-weight:bold;\">售后服务承诺：</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">如何申请退换货：</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">1.自您签收产品快递起7日内（含），如果您所购买的产品存在质量问题，请第一时间联系网易云音乐客服（向“云音乐客服”账号私信反馈），并确认产品包装完好无破损，且吊牌挂在产品上。</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">2.签收后7天内在配件齐全，且不影响二次销售前提下支持无理由退换货，退款将原路返回，不同的银行处理时间不同，预计1-5个工作日到账；</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"font-weight:bold;\">退换货说明：</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">在退换时应当保证产品完好、配件齐全，且不影响二次销售。遭人为污损的商品不提供7天无理由退换货服务，敬请谅解。</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">无法享受7天内无理由退换的情况，包括但不仅限于以下：</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">1）签收产品超出7天后，提出售后申请；</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">2）产品配件不齐全或包装不完整的；</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">3）人为原因，包括下水洗涤，剪标，人为污损的；</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">4）非产品本身原因出现破损（如宠物撕咬、不小心被尖锐物勾扯等）；</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">5）正常的面料特性，如：深色衣服第一次下水轻微褪色和浮毛；</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">6）因使用者保养不当造成产品出现质量问题（如高温熨烫等）。</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"font-weight:bold;\">退货注意事项：</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">1）商品的完整标配指原厂包装，标牌及其他所有配件；</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">2）因质量问题，退货运费由网易云音乐承担；因个人原因（包括大小不合适，色差问题，个人不喜欢不满意等退货或者更换尺寸）产生的寄回运费，由用户个人承担；</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">3）请您支付寄回的快递费（到付件一律拒收），核对为质量问题后网易云音乐会报销寄回的快递费（最高22元），请将快递发票随货寄出（无发票不报销）。</span>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<br>",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"font-weight:bold;\">退换货流程</span>：",
+                         "rawResource": null
+                    },
+                    {
+                         "type": 1,
+                         "resource": "<span style=\"color:#707070;\">向客服申请退货—客服审核—审核通过后，用户寄回商品—验收核对—退款或重新寄出商品</span>",
+                         "rawResource": null
+                    }
+               ],
+               "appleDescr": [],
+               "businessName": "杭州网易云音乐有限公司",
+               "discount": true,
+               "videoId": null
+          },
+          "code": 200
+     }
+]
